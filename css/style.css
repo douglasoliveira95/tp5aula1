@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    font-family: Impact, fantasy;
+    background-color: darkseagreen;
+}
+
+h3 {
+    color: gray;
+    font-family: Aryal, sans-serif; 
+}
+
+table {
+    border: 2px dashed black;
+    font-family: Aryal, sans-serif;
+    background-color: lightgrey;
+}
+
+td {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid red;
+}
+
+.formfield {
+    display: block;
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid #FF0000;
+    padding: 2px 5px 2px 5px;
+}
+
+.formlabel {
+    font-family: Arial, sans-serif;
+    
+}
+
+input {
+    font-family: Arial, sans-serif;
+}
+
+#edyform {
+    background-color: bisque;
+    float: left;
+    width: 50%;
+    height: 400;
+}
+
+#g1form {
+    background-color: aqua;
+    float: right;
+    width: 50%;
+    height: 400;
+}
